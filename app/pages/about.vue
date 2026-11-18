@@ -3,8 +3,8 @@
     <h1>О проекте</h1>
     <p>
       Базовое приложение на
-      <a href="https://nuxt.com" target="_blank" rel="noopener noreferrer">Nuxt 3</a>
-      с серверным рендерингом. Маршруты в папке <code>pages/</code> автоматически подключаются к Vue Router.
+      <a href="https://nuxt.com" target="_blank" rel="noopener noreferrer">Nuxt</a>
+      с серверным рендерингом. Маршруты в папке <code>app/pages/</code> автоматически подключаются к Vue Router.
     </p>
   </div>
 </template>
